@@ -78,7 +78,7 @@ const Hero: React.FC = () => {
             </span>
           </h1>
           <span className="job-title block bg-gradient-to-tr from-blue-900 via-blue-500 to-blue-800 bg-clip-text text-2xl font-bold uppercase tracking-[.2em] text-transparent opacity-0 md:text-4xl">
-            Computer Science Student
+            Technology Enthusiast
           </span>
         </div>
       </div>
